@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nava {
+    background-color: #f8f9fa;
+}
+
+.button {
+    transform: translateX(1000px);
+}
+
+.login {
+    width: 100px;
+    border-radius: 10px;
+    background-color: #0802a3;
+    color: white;
+    font-weight: 500;
+    border: none;
+}
+
+.Sign {
+    width: 100px;
+    border-radius: 10px;
+    color: #0802a3;
+    font-weight: 500;
+    border: 1px solid #0802a3;
+}
+
+.Sign:hover {
+    background-color: #0802a3;
+    color: white;
+}
+
+.Home {
+    transform: translate(550px,15px);
+    font-weight: 500;
+}
+
+.hyra {
+    transform: translateX(40px);
+    color: #0802a3;
+}
+
+.first-text {
+    width: 50%;
+    margin-left: 200px;
+}
+
+.box1 {
+    width: 230px;
+    height: 250px;
+    background-color: #0802a3;
+    border-radius: 10px;
+}
+
+.box2 {
+    width: 230px;
+    height: 250px;
+    background-color: #ff7676;
+    border-radius: 10px;
+
+}
+
+.box3 {
+    width: 230px;
+    height: 250px;
+    background-color: #ff4b91;
+    border-radius: 10px;
+}
+
+.box4 {
+    width: 230px;
+    height: 250px;
+    background-color: #ffcd4b;
+    border-radius: 10px;
+}
+
+.area {
+    display: flex;
+    gap: 50px;
+}
+
+.why {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.discover {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box5 {
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+    border: 1px solid #0802a3;
+}
+
+.box6 {
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+    border: 1px solid #ff7676;
+}
+
+.box7 {
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+    border: 1px solid #ff4b91;
+}
+
+.why2 {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.dave {
+    transform: translateY(100px);
+    color: #4F0101;
+    font-weight: 600;
+}
+
+.hey {
+    width: 300px;
+    padding: 10px;
+    background-color: #0802a3;
+    color: #f8f9fa;
+    font-weight: 500;
+}
+
+.found {
+    background-color: #ff4b91;
+    display: flex;
+    gap: 100px;
+}
+
+.gee {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.ggs {
+    background-color: white;
+    width: 300px;
+    color:  #ff4b91;
+    padding: 10px;
+    border: #ff4b91;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.tina {
+    width: 50%;
+    margin-left: 150px;
+}
+
+.melo {
+    background-color: #0802a3;
+    color: white;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
